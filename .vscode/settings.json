@@ -1,0 +1,10 @@
+{
+  "editor.tabSize": 4,
+  "editor.autoIndent": "full",
+  "files.autoSave": "onFocusChange",
+  "[python]": {
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": true
+    }
+  }
+}
